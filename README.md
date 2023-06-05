@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamudio-fabian&show_icons=true&locale=en&layout=compact" alt="zamudio-fabian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamudio-fabian&show_icons=true&locale=en" alt="zamudio-fabian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamudio-fabian&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="zamudio-fabian" /></p>
